@@ -8,7 +8,7 @@ namespace RockPaperScissorsServer
     /// <summary>
     /// Основний клас сервера для гри "Камінь, Ножиці, Папір".
     /// </summary>
-    class Server
+    public class Server
     {
         /// <summary>
         /// Точка входу для сервера.
